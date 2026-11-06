@@ -1,0 +1,92 @@
+# Arun R. G. — AI Engineer & Full-Stack Developer
+
+> Arun R. G. is an AI Engineer and Full-Stack Developer from Tamil Nadu, India.
+> He combines Artificial Intelligence, robust backend architectures, and creative frontend engineering to build practical, intelligent digital products.
+
+## Who is Arun R. G.?
+
+Arun R. G. is an Information Technology student at K.L.N. College of Engineering (2024–2028). He specializes in building intelligent applications, integrating machine learning pipelines, architecting scalable web platforms, and designing cinematic, responsive digital experiences. His focus is on learning by building, experimenting with emerging AI technologies, and creating software that solves meaningful problems.
+
+## Core Specializations
+
+### 1. Artificial Intelligence & Machine Learning
+Building intelligent systems, custom LLM integrations, computer vision pipelines, AI risk telemetry, Knowledge Graph NLP, and recommendation algorithms.
+
+### 2. Full-Stack Web Development
+Developing high-performance, full-stack applications with React, Next.js, Node.js, Express, PostgreSQL, pgvector, Supabase, and Prisma.
+
+### 3. Creative Frontend Engineering
+Crafting cinematic, responsive interfaces with fluid motion, editorial typography, and high visual standards.
+
+## Technical Skills
+
+### Frontend
+HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+
+### Backend
+Node.js, Express.js, Laravel, PHP, Python, Java, REST APIs
+
+### Databases & Cloud
+PostgreSQL, pgvector, MySQL, MongoDB, Supabase, Prisma, Git, GitHub, Vercel, Render
+
+### Artificial Intelligence & Data
+AI Application Development, Machine Learning, Computer Vision, Knowledge Graphs, NLP, AI API Integration (Groq Llama 3.3, Google Gemini API, OpenAI)
+
+## Verified Featured Projects (from GitHub @Arunrg3011)
+
+### 1. ARISE — Personal AI Operating System
+An AI-powered personal workspace designed to unify tasks, projects, notes, scheduling, productivity insights, and AI assistance into one cohesive environment.
+Stack: React 19, Vite, Tailwind CSS v4, Zustand, Node.js, Express, PostgreSQL, pgvector, Prisma, Groq API (Llama 3.3).
+Repository: https://github.com/Arunrg3011/Arise_personal_AI
+
+### 2. RagGuard — AI Incident Telemetry & Campus Safety
+Decentralized incident reporting and safety protocol with automated AI risk severity grading (LOW, MODERATE, HIGH, CRITICAL), instant emergency SOS, spatial pattern detection, and dual-theme visual design.
+Stack: TypeScript, React, Node.js, Express, AI Telemetry, PostgreSQL.
+Repository: https://github.com/Arunrg3011/Ragguard
+
+### 3. AI Resume Builder & Parser
+A career tool featuring automated PDF resume parsing, ATS-oriented optimization, 13 premium templates, and Google Gemini AI integration.
+Stack: React, Vite, Node.js, Express, Google Gemini AI, Glassmorphism, PDF Parsing.
+Repository: https://github.com/Arunrg3011/resume-maker
+
+### 4. Context-Aware Hashtag Generation
+Machine learning pipeline utilizing entity extraction and Knowledge Graph (KG) semantic mapping to infer and generate high-relevance, context-aware hashtags from real-time news headlines.
+Stack: Python, Machine Learning, Knowledge Graphs, NLP, FastAPI.
+Repository: https://github.com/Arunrg3011/Context-Aware-Hashtag-Generation
+
+### 5. SchemeLink
+Citizen-facing government scheme matcher that scans Aadhaar and identity documents via OCR and intelligently matches users with eligible Indian government welfare schemes.
+Stack: React, Vite, OCR Engine, AI Matching, Tailwind CSS.
+Repository: https://github.com/Arunrg3011/Scheme-link
+
+### 6. AI Course & Book Recommender System
+A research-driven educational platform featuring multilingual learning support and personalized course discovery.
+Achievement: Presented at ICSDET'26 at K.L.N. College of Engineering on March 25, 2026.
+Repository: https://github.com/Arunrg3011/AI-Book-Online-Course-Recommender-System-
+
+### 7. TrendTrim Salon
+Full-stack salon service and appointment booking application with real-time slot reservations, service catalogs, and responsive interfaces.
+Stack: React, Node.js, Express, REST APIs, Tailwind CSS.
+Repository: https://github.com/Arunrg3011/TrendTrim_Salon
+Live Demo: https://trend-trim-salon.vercel.app
+
+### 8. Anii Gold Scheme Admin
+Administrative management system for gold savings schemes featuring member accounts, transaction tracking, dues management, and secure controls.
+Stack: PHP, MySQL, Authentication, Security Controls.
+Repository: https://github.com/Arunrg3011/Anii_Gold_Scheme_Admin
+
+## Experience & Education
+
+- B.Tech in Information Technology — K.L.N. College of Engineering (2024–2028)
+- Software Development Intern — Dream Yours Infotech Consulting & Services
+- Software Development Intern — CODSOFT
+- Web Development Intern — OctaNet
+- Research Presentation — ICSDET'26 at K.L.N. College of Engineering
+
+## Connect & Profiles
+
+- Website: https://portfolio-arun3011.vercel.app
+- LinkedIn: https://linkedin.com/in/arunrg3011
+- GitHub: https://github.com/Arunrg3011
+- Projects: https://portfolio-arun3011.vercel.app/projects
+- Contact: https://portfolio-arun3011.vercel.app/contact

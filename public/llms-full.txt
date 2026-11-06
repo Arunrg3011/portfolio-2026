@@ -1,0 +1,128 @@
+# Arun R. G. — AI Engineer & Full-Stack Developer (Full Profile Context)
+
+> Full machine-readable profile of Arun R. G. — an AI Engineer and Full-Stack Developer from Tamil Nadu, India.
+
+## Identity
+
+- Name: Arun R. G.
+- Location: Tamil Nadu, India
+- Education: B.Tech Information Technology, K.L.N. College of Engineering (2024–2028)
+- Professional Identity: AI Engineer & Full-Stack Developer
+- Website: https://portfolio-arun3011.vercel.app
+- LinkedIn: https://linkedin.com/in/arunrg3011
+- GitHub: https://github.com/Arunrg3011
+
+## Professional Positioning
+
+Arun R. G. is a developer who combines:
+- Artificial Intelligence and Machine Learning
+- Full-Stack Web Development
+- Creative Frontend Engineering
+- API and Backend Architecture
+- Database Design and Integration
+- Computer Vision and AI-Powered Applications
+- Experimental, interactive web experiences
+
+He turns ideas into practical software, focusing on building useful products that solve real problems.
+
+## Core Philosophy
+
+"Engineering intelligence with purpose — turning complex ideas into usable software through thoughtful architecture, continuous experimentation, and meticulous craft."
+
+## Detailed Services & Specializations
+
+### 1. Artificial Intelligence & Machine Learning
+- Intelligent personal productivity systems and autonomous agents
+- AI incident risk telemetry (LOW, MODERATE, HIGH, CRITICAL classification)
+- Knowledge Graph NLP entity extraction and inference
+- AI API integrations (Groq Llama 3.3, Google Gemini API, OpenAI embeddings)
+- Multilingual educational recommendation systems
+
+### 2. Full-Stack Web Development
+- Modern scalable web applications with Next.js, React, and Node.js
+- REST API design and backend architecture using Express.js, Laravel, PHP, Python, and Java
+- Relational and document databases: PostgreSQL, pgvector, Supabase, Prisma, MySQL, MongoDB
+- Cloud deployments and continuous delivery with Vercel and Render
+
+### 3. Creative Frontend Engineering
+- Cinematic, scroll-driven interactive experiences
+- Fluid micro-animations and typography
+- Responsive design across desktop, tablet, and mobile devices
+- High-performance web graphics and canvas rendering
+
+## Verified Featured Projects (Inspected from GitHub @Arunrg3011)
+
+### PROJECT 01 — ARISE (Arise_personal_AI)
+- Category: Personal AI Operating System
+- Concept: A unified personal AI operating system consolidating task execution, calendar events, habits, daily journals, notes, spending tracking, and semantic knowledge layers with real-time Socket.IO synchronization.
+- Technologies: React 19, Vite, Tailwind CSS v4, Zustand, Node.js, Express, PostgreSQL, pgvector, Prisma, Groq API (Llama 3.3).
+- Status: Active Development
+- Repository: https://github.com/Arunrg3011/Arise_personal_AI
+
+### PROJECT 02 — RagGuard (Ragguard)
+- Category: AI Incident Telemetry & Campus Safety
+- Concept: Intelligent decentralized incident reporting and safety protocol with automated AI risk severity grading, instant emergency SOS, spatial pattern detection, and dual-theme visual design.
+- Technologies: TypeScript, React, Node.js, Express, AI Telemetry, PostgreSQL.
+- Status: Working Prototype
+- Repository: https://github.com/Arunrg3011/Ragguard
+
+### PROJECT 03 — AI Resume Builder & Parser (resume-maker)
+- Category: AI-Powered Career Tools
+- Concept: Resume generation, PDF parsing, ATS-oriented resume optimization, job matching, and 13 customizable templates.
+- Technologies: React, Vite, Node.js, Express, SQLite, Google Gemini API, Glassmorphism.
+- Status: Working Prototype
+- Repository: https://github.com/Arunrg3011/resume-maker
+
+### PROJECT 04 — Context-Aware Hashtag Generation
+- Category: Knowledge Graph & Machine Learning NLP
+- Concept: Machine learning pipeline utilizing entity extraction and Knowledge Graph (KG) semantic mapping to infer and generate high-relevance, context-aware hashtags from real-time news headlines.
+- Technologies: Python, Machine Learning, Knowledge Graphs, NLP, Entity Extraction, FastAPI.
+- Status: Research & Implementation
+- Repository: https://github.com/Arunrg3011/Context-Aware-Hashtag-Generation
+
+### PROJECT 05 — SchemeLink (Scheme-link)
+- Category: AI Government Welfare & OCR Matcher
+- Concept: Citizen-facing government scheme matcher scanning identity documents via OCR and intelligently matching eligible welfare schemes based on extracted profile data.
+- Technologies: React, Vite, OCR Engine, AI Matching, Tailwind CSS.
+- Status: Prototype / Active Development
+- Repository: https://github.com/Arunrg3011/Scheme-link
+
+### PROJECT 06 — AI Course & Book Recommender System
+- Category: AI Research / Education Technology
+- Concept: Personalized educational pathway and book recommendation system with multilingual learning support.
+- Achievement: Presented at ICSDET'26 at K.L.N. College of Engineering on March 25, 2026.
+- Status: Research & Academic Project
+- Repository: https://github.com/Arunrg3011/AI-Book-Online-Course-Recommender-System-
+
+### PROJECT 07 — TrendTrim Salon (TrendTrim_Salon)
+- Category: Full-Stack Booking Platform
+- Concept: Full-stack salon service and appointment booking application with real-time slot reservations, service catalogs, and responsive interfaces.
+- Technologies: React, Node.js, Express, REST APIs, Tailwind CSS, Vercel.
+- Status: Deployed & Live
+- Repository: https://github.com/Arunrg3011/TrendTrim_Salon
+- Live Demo: https://trend-trim-salon.vercel.app
+
+### PROJECT 08 — Anii Gold Scheme Admin (Anii_Gold_Scheme_Admin)
+- Category: Administrative Management System
+- Concept: Administrative management system for gold savings schemes featuring member accounts, transaction tracking, dues management, and secure controls.
+- Technologies: PHP, MySQL, Authentication, Security Controls.
+- Status: Production Ready
+- Repository: https://github.com/Arunrg3011/Anii_Gold_Scheme_Admin
+
+## Verified Experience
+
+1. Software Development Intern — Dream Yours Infotech Consulting & Services
+2. Software Development Intern — CODSOFT
+3. Web Development Intern — OctaNet
+4. Academic & Technical Project Lead — K.L.N. College of Engineering
+
+## Site Architecture & Endpoints
+
+- Home: https://portfolio-arun3011.vercel.app/
+- About: https://portfolio-arun3011.vercel.app/about
+- Work: https://portfolio-arun3011.vercel.app/work
+- Projects: https://portfolio-arun3011.vercel.app/projects
+- Contact: https://portfolio-arun3011.vercel.app/contact
+- LLMs Endpoint: https://portfolio-arun3011.vercel.app/api/llms
+- Manifest: https://portfolio-arun3011.vercel.app/manifest.json
+- Sitemap: https://portfolio-arun3011.vercel.app/sitemap.xml
